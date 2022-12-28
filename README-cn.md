@@ -4,6 +4,7 @@
 
 
 ## Hi,GoGoCode 是什么呢？I don't know, but i am not worried,because i am learning
+## Let me tell you now!
 
 
 [English version of README](README.md)
